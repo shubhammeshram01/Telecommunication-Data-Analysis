@@ -78,4 +78,4 @@ Performed EDA to derive churn percentage and analyze various services provided i
 ## Analysis Files : 
 | Project Name | File | My Linkedin | My Github |
 |-|-|-|-|
-|Telecom's Data Analysis| [File]() | [Linkedin](https://www.linkedin.com/in/shubhammeshram01/) | [Github]https://github.com/shubhammeshram01() |
+|Telecom's Data Analysis| [File]() | [Linkedin](https://www.linkedin.com/in/shubhammeshram01/) | [Github](https://github.com/shubhammeshram01) |
